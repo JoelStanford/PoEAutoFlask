@@ -2,6 +2,7 @@
 Automates the use of buff style flasks for Path of Exile using an AutoHotKey script.
 
 NOTE: you MUST install AutoHotKey for this script to function!
+NOTE: this will not work properly for Life, Mana or Hybrid style flasks!
 
 Keys used and monitored:
 alt+f12 - activate/de-activate the script
