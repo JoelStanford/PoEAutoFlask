@@ -33,3 +33,4 @@ is the time, in ms, that the flask buff will last once activated.
 At anytime (after activating the script with Alt+F12 [default]), you can also use the keys 1 - 5 to use a single
 flask or the ` (backtick key - left of the number 1 on a US keyboard) to use all flasks. Note that using ` to trigger
 all flasks will use even those flasks that have a FlaskDurationInit of 0.
+
